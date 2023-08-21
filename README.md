@@ -1,2 +1,1 @@
-# csa1609
-Data warehouse and data mining 
+# data warehouse and data mining
